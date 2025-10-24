@@ -74,7 +74,7 @@ The Central Library wants to manage book lending and cultural events.
 - Overdue fines apply for late returns.
 
 ### ER Diagram:
-<img width="1728" height="828" alt="image" src="https://github.com/user-attachments/assets/7bf4e1ec-249a-498a-bca6-a061632027da" />
+<img width="1190" height="564" alt="image" src="https://github.com/user-attachments/assets/ec2c1274-c07c-4132-a177-d19a037465b0" />
 
 
 ### Entities and Attributes
@@ -124,7 +124,7 @@ A popular restaurant wants to manage reservations, orders, and billing.
 - Waiters assigned to serve reservations.
 
 ### ER Diagram:
-<img width="1850" height="875" alt="image" src="https://github.com/user-attachments/assets/4c9ca114-cbdc-4414-a4c0-ecbf7870193d" />
+<img width="1357" height="692" alt="image" src="https://github.com/user-attachments/assets/a7495e92-6979-44e0-aa37-c70e510c699b" />
 
 
 ### Entities and Attributes
